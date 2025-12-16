@@ -31,8 +31,7 @@ Hệ thống quản lý nhân sự toàn diện với các tính năng:
 - **API Documentation:** [Swagger/Postman Collection](https://your-api-docs-link.com)
 
 ### 📸 Video Demo
-- **YouTube:** [Xem video demo hệ thống](https://youtube.com/watch?v=your-video-id)
-- **Screen Recording:** [Link Google Drive](https://drive.google.com/your-folder)
+- **Screen Recording:** [Link Google Drive]([https://drive.google.com/your-folder](https://drive.google.com/drive/folders/1tDAUlPEOpOKYk10XT7gL9anGkQCxdKo4?hl=vi))
 
 ---
 
@@ -41,58 +40,44 @@ Hệ thống quản lý nhân sự toàn diện với các tính năng:
 ### 🖥️ Giao diện Web
 
 #### 1. Trang Đăng nhập
-![Login Screen](screenshots/web/login.png)
+
+<img width="1854" height="1020" alt="image" src="https://github.com/user-attachments/assets/e6500f52-eaac-4060-901d-545c3bcf7474" />
+
 *Giao diện đăng nhập với phân quyền Manager/Employee/Accountant*
 
 #### 2. Dashboard Quản lý
-![Dashboard](screenshots/web/dashboard.png)
+<img width="1866" height="950" alt="image" src="https://github.com/user-attachments/assets/4d0c1e71-3876-4ca6-83df-b06d282de0b8" />
+
 *Dashboard tổng quan với thống kê real-time, biểu đồ chấm công, và thông báo*
 
 #### 3. Quản lý Nhân viên
-![Employee Management](screenshots/web/employee-management.png)
+![Employee Management]<img width="1869" height="947" alt="image" src="https://github.com/user-attachments/assets/cdd5b8a2-854b-403e-8f07-b75d94c9eabb" />
+
 *Danh sách nhân viên với tính năng tìm kiếm, lọc, và đăng ký vân tay*
 
 #### 4. Chấm công
-![Attendance](screenshots/web/attendance.png)
+![Attendance]<img width="1875" height="1023" alt="image" src="https://github.com/user-attachments/assets/bc206c0a-c780-4346-a496-c5e80b0485e3" />
+
 *Lịch sử chấm công với lọc theo tháng, xuất Excel, và thống kê*
 
 #### 5. Tính lương
-![Payroll](screenshots/web/payroll.png)
+![Payroll]<img width="1851" height="1029" alt="image" src="https://github.com/user-attachments/assets/c1f6e466-17f5-4924-91c9-fbad729b4ae0" />
+
 *Quản lý lương với tính toán tự động, điều chỉnh, và lịch sử*
-
-#### 6. Chatbot AI
-![Chatbot](screenshots/web/chatbot.png)
-*Chatbot thông minh hỗ trợ tra cứu lương, ngày phép, thông tin nhân viên*
-
-#### 7. Chat Nội bộ
-![Internal Chat](screenshots/web/internal-chat.png)
-*Hệ thống chat nội bộ với phân quyền và thông báo real-time*
 
 ### 📱 Giao diện Mobile
 
 #### 1. Màn hình Home
-![Mobile Home](screenshots/mobile/home.png)
+![Mobile Home]
+<img width="463" height="914" alt="image" src="https://github.com/user-attachments/assets/eb5856b9-4b2f-4ca5-970f-01215fc8dc81" />
+<img width="806" height="568" alt="image" src="https://github.com/user-attachments/assets/b8c12e9c-427d-4520-a7cd-4e1c8991eea0" />
+
 *Dashboard mobile với thông tin chấm công hôm nay*
 
 #### 2. Chấm công Mobile
-![Mobile Attendance](screenshots/mobile/attendance.png)
+![Mobile Attendance]<img width="585" height="612" alt="image" src="https://github.com/user-attachments/assets/284c223d-cb10-467d-98b2-25879754c994" />
+
 *Xem lịch sử chấm công và thống kê trên mobile*
-
-#### 3. Lương Mobile
-![Mobile Payroll](screenshots/mobile/payroll.png)
-*Xem chi tiết lương theo tháng trên mobile*
-
-### 🔌 Thiết bị ESP32
-
-#### 1. ESP32 Hardware
-![ESP32 Device](screenshots/esp32/device.jpg)
-*Thiết bị ESP32 với module vân tay và màn hình OLED*
-
-#### 2. Màn hình ESP32
-![ESP32 Display](screenshots/esp32/display.jpg)
-*Màn hình hiển thị trạng thái chấm công trên ESP32*
-
----
 
 ## 🛠️ CÔNG NGHỆ SỬ DỤNG
 
@@ -434,25 +419,6 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 Dự án này được phát triển cho mục đích học tập và nghiên cứu (Khóa luận Tốt nghiệp).
 
 ---
-
-## 👨‍💻 TÁC GIẢ
-
-- **Sinh viên:** [Tên của bạn]
-- **MSSV:** [Mã số sinh viên]
-- **Giảng viên hướng dẫn:** [Tên giảng viên]
-- **Trường:** [Tên trường]
-- **Năm:** 2024-2025
-
----
-
-## 📞 LIÊN HỆ
-
-- **Email:** your-email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
 ## 🙏 LỜI CẢM ƠN
 
 Cảm ơn các thư viện và công cụ mã nguồn mở đã hỗ trợ:
