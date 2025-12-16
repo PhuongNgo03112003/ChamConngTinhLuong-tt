@@ -21,12 +21,10 @@ Hệ thống quản lý nhân sự toàn diện với các tính năng:
 ## 🚀 DEMO & DEPLOY LINKS
 
 ### 🌐 Frontend Web Application
-- **Demo:** [https://your-frontend-demo.vercel.app](https://your-frontend-demo.vercel.app)
-- **Production:** [https://your-production-url.com](https://your-production-url.com)
+- **Demo:** https://hrm-esp32-attendance.vercel.app/
 
 ### 📱 Mobile Application
-- **Android APK:** [Download APK](https://your-apk-download-link.com)
-- **iOS:** (Đang phát triển)
+- **Android APK:** [Download APK]https://drive.google.com/drive/folders/1tDAUlPEOpOKYk10XT7gL9anGkQCxdKo4?hl=vi
 
 ### 🔧 Backend API
 - **API Base URL:** [https://khoaluantotnghiep-esp32-attendance.onrender.com/api](https://khoaluantotnghiep-esp32-attendance.onrender.com/api)
