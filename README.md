@@ -18,6 +18,10 @@ Hệ thống quản lý nhân sự toàn diện với các tính năng:
 
 ---
 
+TK:admin2
+Mk:admin123
+TK:EMP003
+MK12345678
 ## 🚀 DEMO & DEPLOY LINKS
 
 ### 🌐 Frontend Web Application
